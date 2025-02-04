@@ -4,11 +4,11 @@ table:hover {
     background-color: brown;
 }
 
-h1.webpage-title {
-    color: navy;
+h1 {
+    color: pink;
 }
 
-#page {
+#Page {
     color: aqua;
 }
 
@@ -18,9 +18,8 @@ a {
 
 
 @media screen and (max-width: 600px) {
-    .topnav a {
-        float: none;
-        width: 100%;
+    body{
+        background-color: lightgreen;
     }
 }
 
