@@ -4,8 +4,12 @@ table:hover {
     background-color: brown;
 }
 
-h1 {
+h1.webpage-title {
     color: pink;
+}
+
+h2.professor-name {
+    background-color: yellow;
 }
 
 #Page {
